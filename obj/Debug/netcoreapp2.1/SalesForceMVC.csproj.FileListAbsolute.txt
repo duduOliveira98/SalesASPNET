@@ -34,4 +34,3 @@ D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CopyComplete
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csprojAssemblyReference.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CoreCompileInputs.cache
-D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
