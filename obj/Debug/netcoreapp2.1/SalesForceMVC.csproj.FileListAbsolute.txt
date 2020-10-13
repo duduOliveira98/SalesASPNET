@@ -8,10 +8,8 @@ D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\bin\Debug\netcoreapp2.1\SalesForceMVC
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\bin\Debug\netcoreapp2.1\SalesForceMVC.pdb
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\bin\Debug\netcoreapp2.1\SalesForceMVC.Views.dll
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\bin\Debug\netcoreapp2.1\SalesForceMVC.Views.pdb
-D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csprojAssemblyReference.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.AssemblyInfoInputs.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.AssemblyInfo.cs
-D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CoreCompileInputs.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.RazorAssemblyInfo.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.RazorAssemblyInfo.cs
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.TagHelpers.input.cache
@@ -34,3 +32,6 @@ D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.pdb
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.genruntimeconfig.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CopyComplete
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csprojAssemblyReference.cache
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CoreCompileInputs.cache
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
