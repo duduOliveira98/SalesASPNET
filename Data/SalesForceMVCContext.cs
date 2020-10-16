@@ -14,6 +14,10 @@ namespace SalesForceMVC.Data
         {
         }
 
-        public DbSet<SalesForceMVC.Models.Departament> Departament { get; set; }
+        public DbSet<Departament> Departament { get; set; }
+        public DbSet<Seller> Seller { get; set; }
+        public DbSet<SalesRecord> SalesRecord { get; set; }
+
+
     }
 }

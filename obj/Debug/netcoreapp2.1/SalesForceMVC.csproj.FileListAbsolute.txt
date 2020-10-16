@@ -33,4 +33,11 @@ D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.genruntimeconfig.cache
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CopyComplete
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csprojAssemblyReference.cache
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Create.cshtml.g.cs
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Delete.cshtml.g.cs
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
+D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
 D:\CursoC#\ProjetoASPNETCORE\SalesForceMVC\obj\Debug\netcoreapp2.1\SalesForceMVC.csproj.CoreCompileInputs.cache

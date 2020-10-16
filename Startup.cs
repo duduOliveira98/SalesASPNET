@@ -37,7 +37,10 @@ namespace SalesForceMVC
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<SalesForceMVCContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("SalesForceMVCContext")));
+                    options.UseMySql(Configuration.GetConnectionString("SalesForceMVCContext"), builder =>
+                        builder.MigrationsAssembly("SalesForceMVC")));
+            //migrationAssembly = nome do projeto
+            //GetConnectionString = nome do cs que esta na pasta Data
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
